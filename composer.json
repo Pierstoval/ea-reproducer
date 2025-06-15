@@ -7,14 +7,16 @@
         "php": ">=8.2",
         "ext-ctype": "*",
         "ext-iconv": "*",
+        "doctrine/doctrine-migrations-bundle": "^3.4.2",
+        "easycorp/easyadmin-bundle": "^4.24.8",
+        "friendsofphp/php-cs-fixer": "^3.75",
         "symfony/console": "7.3.*",
         "symfony/dotenv": "7.3.*",
-        "symfony/flex": "^2",
+        "symfony/flex": "^2.7.1",
         "symfony/framework-bundle": "7.3.*",
+        "symfony/maker-bundle": "^1.63",
         "symfony/runtime": "7.3.*",
         "symfony/yaml": "7.3.*"
-    },
-    "require-dev": {
     },
     "config": {
         "allow-plugins": {
